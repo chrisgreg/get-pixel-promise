@@ -14,7 +14,7 @@ npm install get-pixel-promise --save
   var getPixelPromise = require('get-pixel-promise')
   var imageFile = 'path/to/file.jpg|png|gif';
 
-  var promise = getPixelPromise('/resources/fox.jpg');
+  var promise = getPixelPromise(imageFile);
   var imageShape = promise.then((image) => image.shape);
 ```
 
