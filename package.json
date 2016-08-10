@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/chrisgreg/get-pixel-promise.git"
   },
-  "keywords": [node, npm, pixels, promise],
+  "keywords": ['node', 'npm', 'pixels', 'promise'],
   "author": "Chris Gregori @chrisgreg",
   "license": "ISC",
   "devDependencies": {
