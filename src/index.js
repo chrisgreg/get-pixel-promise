@@ -1,6 +1,6 @@
 var getPixels = require("get-pixels")
 
-function getPixelsPromise(path, type) {
+function getPixelPromise(path, type) {
   type = type || null;
 
   return new Promise(function(resolve, reject) {
@@ -14,4 +14,4 @@ function getPixelsPromise(path, type) {
   });
 }
 
-module.exports = getPixelsPromise;
+module.exports = getPixelPromise;

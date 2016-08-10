@@ -1,5 +1,5 @@
 {
-  "name": "get-pixels-promise",
+  "name": "get-pixel-promise",
   "version": "1.0.0",
   "description": "A promise wrapper on the get-pixels npm module",
   "main": "index.js",
