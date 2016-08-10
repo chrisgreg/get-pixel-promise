@@ -25,3 +25,4 @@ npm install get-pixel-promise --save
 ## Release History
 
 * 1.0.0 Initial release
+* 1.0.2 Updated package.json and README.md

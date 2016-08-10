@@ -1,6 +1,6 @@
 {
   "name": "get-pixel-promise",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A promise wrapper on the get-pixels npm module",
   "main": "src/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/chrisgreg/get-pixel-promise.git"
   },
-  "keywords": [node, npm, pixels, promise],
+  "keywords": ['node', 'npm', 'pixels', 'promise'],
   "author": "Chris Gregori @chrisgreg",
   "license": "ISC",
   "devDependencies": {
